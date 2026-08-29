@@ -4,11 +4,11 @@ A clean and modern **Journal App UI** built with Flutter.
 
 I recreated this interface to practice building polished mobile layouts in Flutter while focusing on spacing, typography, cards, navigation, and reusable UI components.
 
-## ✨ Preview
+## 🎬 Preview
 
-<!-- Add your project video or GIF here -->
-
-![Journal App Preview](preview.png)
+<p align="center">
+  <img src="Preview/Screenshot%20%2879%29.png" width="300">
+</p>
 
 ## 🎨 About The UI
 
